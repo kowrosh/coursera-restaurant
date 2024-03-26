@@ -8,8 +8,7 @@ body{
   border-radius: 0;
   border: 0;
   }
-}
-#logo-img {
+  #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 150px;
   height: 150px;
@@ -42,4 +41,5 @@ body{
 }
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
+}
 }
